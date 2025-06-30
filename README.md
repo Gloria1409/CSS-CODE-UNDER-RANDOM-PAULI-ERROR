@@ -1,4 +1,4 @@
-# Mini-Project 3: CSS Quantum Hamming Code under Random Pauli Error
+# CSS Quantum Hamming Code under Random Pauli Error
 
 ## Project Overview
 
